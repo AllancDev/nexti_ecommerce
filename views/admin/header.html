@@ -259,17 +259,8 @@ desired effect
         <li><a href="/pj_final_hcode/admin/users"><i class="fa fa-users"></i> <span>Usuários</span></a></li>
         <li><a href="/pj_final_hcode/admin/categories"><i class="fa fa-link"></i> <span>Categorias</span></a></li>
         <li><a href="/pj_final_hcode/admin/products"><i class="fa fa-link"></i> <span>Produtos</span></a></li>
-        <li class="treeview">
-          <a href="/pj_final_hcode/resource/admin/#"><i class="fa fa-link"></i> <span>Multilevel</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
-          </a>
-          <ul class="treeview-menu">
-            <li><a href="/pj_final_hcode/resource/admin/#">Link in level 2</a></li>
-            <li><a href="/pj_final_hcode/resource/admin/#">Link in level 2</a></li>
-          </ul>
-        </li>
+        <li><a href="/pj_final_hcode/admin/orders"><i class="fa fa-shopping-cart"></i> <span>Pedidos</span></a></li>
+    
       </ul>
       <!-- /.sidebar-menu -->
     </section>
